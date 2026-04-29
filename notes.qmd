@@ -1,4 +1,11 @@
 
 ```{r}
+summary(mtcars)
+```
 
-```summary(mtcars)
+# New Section
+
+This is a new section and is changed in the first commit. Adding a typo.
+
+
+This is a footnote, it just doesn't look like one.
